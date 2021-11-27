@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj": {}
+    "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj": {}
   },
   "projects": {
-    "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj": {
+    "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj",
+        "projectUniqueName": "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj",
         "projectName": "EMigrant2.Modelos",
-        "projectPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj",
-        "packagesPath": "/Users/juansebastiangambajacomussi/.nuget/packages/",
-        "outputPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/obj/",
+        "projectPath": "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj",
+        "packagesPath": "C:\\Users\\AUX ING\\.nuget\\packages\\",
+        "outputPath": "C:\\hackaton\\EMigrant2.Modelos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/juansebastiangambajacomussi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\AUX ING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

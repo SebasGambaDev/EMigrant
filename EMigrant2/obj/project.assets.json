@@ -8604,35 +8604,42 @@
     ]
   },
   "packageFolders": {
-    "/Users/juansebastiangambajacomussi/.nuget/packages/": {}
+    "C:\\Users\\AUX ING\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2/EMigrant2.csproj",
+      "projectUniqueName": "C:\\hackaton\\EMigrant2\\EMigrant2.csproj",
       "projectName": "EMigrant2",
-      "projectPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2/EMigrant2.csproj",
-      "packagesPath": "/Users/juansebastiangambajacomussi/.nuget/packages/",
-      "outputPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2/obj/",
+      "projectPath": "C:\\hackaton\\EMigrant2\\EMigrant2.csproj",
+      "packagesPath": "C:\\Users\\AUX ING\\.nuget\\packages\\",
+      "outputPath": "C:\\hackaton\\EMigrant2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/juansebastiangambajacomussi/.config/NuGet/NuGet.Config"
+        "C:\\Users\\AUX ING\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj": {
-              "projectPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj"
+            "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj": {
+              "projectPath": "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj"
             },
-            "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/EMigrant2.Persistencia.csproj": {
-              "projectPath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/EMigrant2.Persistencia.csproj"
+            "C:\\hackaton\\EMigrant2.Persistencia\\EMigrant2.Persistencia.csproj": {
+              "projectPath": "C:\\hackaton\\EMigrant2.Persistencia\\EMigrant2.Persistencia.csproj"
             }
           }
         }
@@ -8672,6 +8679,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.21, 3.1.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -8680,7 +8693,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

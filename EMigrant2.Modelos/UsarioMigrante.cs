@@ -34,10 +34,9 @@ namespace EMigrant2.Modelos
         public string PaisDeOrigen { get; set; }
 
         [Required]
-        [MaxLength(50)]
-        [DataType(DataType.Date)]
-        [Display(Name = "FechaDeNacimiento")]
-        public DataType FechaDeNacimiento { get; set; }
+        [MaxLength(10)] //12-11-2021
+        [Display(Name = "fecha nacimiento")]
+        public string FechaDeNacimiento { get; set; }
 
         [MaxLength(50)]
         [Display(Name = "Correo electronico")]

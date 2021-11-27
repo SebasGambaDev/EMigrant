@@ -8,3 +8,13 @@
 /Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/obj/Debug/netcoreapp3.1/EMigrant2.Modelos.csproj.CoreCompileInputs.cache
 /Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/obj/Debug/netcoreapp3.1/EMigrant2.Modelos.dll
 /Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/obj/Debug/netcoreapp3.1/EMigrant2.Modelos.pdb
+C:\hackaton\EMigrant2.Modelos\bin\Debug\netcoreapp3.1\EMigrant2.Modelos.deps.json
+C:\hackaton\EMigrant2.Modelos\bin\Debug\netcoreapp3.1\EMigrant2.Modelos.dll
+C:\hackaton\EMigrant2.Modelos\bin\Debug\netcoreapp3.1\EMigrant2.Modelos.pdb
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.csproj.AssemblyReference.cache
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.AssemblyInfoInputs.cache
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.AssemblyInfo.cs
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.csproj.CoreCompileInputs.cache
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.dll
+C:\hackaton\EMigrant2.Modelos\obj\Debug\netcoreapp3.1\EMigrant2.Modelos.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2f5hEZP7Z7HVAeL1vjpQkYpZkjeec3XhAbYTCwH9+dVVLy+A2pRXcIJzFlWgD55NQpWealGVPUFQ24YDI2IGGg==",
+  "dgSpecHash": "RfJja3spf2X0Yfix8Npt7CCspK9kGkY1D0eGknef1TuBmErFIm8R6dMbIqg8Ujg/DiZnLBpCSEs5VPrkZ+sb9g==",
   "success": true,
-  "projectFilePath": "/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Modelos/EMigrant2.Modelos.csproj",
+  "projectFilePath": "C:\\hackaton\\EMigrant2.Modelos\\EMigrant2.Modelos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
