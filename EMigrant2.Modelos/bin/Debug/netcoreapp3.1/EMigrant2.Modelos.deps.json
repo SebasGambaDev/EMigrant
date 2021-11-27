@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EMigrant2.Modelos/1.0.0": {
+        "runtime": {
+          "EMigrant2.Modelos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMigrant2.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

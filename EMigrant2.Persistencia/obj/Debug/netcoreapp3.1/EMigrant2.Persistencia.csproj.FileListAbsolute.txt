@@ -1,0 +1,16 @@
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Persistencia.deps.json
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Persistencia.runtimeconfig.json
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Persistencia.runtimeconfig.dev.json
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Persistencia.dll
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Persistencia.pdb
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Modelos.dll
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/bin/Debug/netcoreapp3.1/EMigrant2.Modelos.pdb
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.csproj.AssemblyReference.cache
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.AssemblyInfoInputs.cache
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.AssemblyInfo.cs
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.csproj.CoreCompileInputs.cache
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.csproj.CopyComplete
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.dll
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.pdb
+/Users/juansebastiangambajacomussi/Projects/EMigrant2/EMigrant2.Persistencia/obj/Debug/netcoreapp3.1/EMigrant2.Persistencia.genruntimeconfig.cache

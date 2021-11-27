@@ -1,0 +1,84 @@
+
+@model EMigrant2.Modelos.UsuarioMigrante
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+
+<form  method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label class="form-label" asp-for="Nombres"></label>
+        <input class="form-control" asp-for="Nombres" />
+        <span class="text-danger" asp-validation-for="Nombres"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Apellidos"></label>
+        <input class="form-control" asp-for="Apellidos" />
+        <span class="text-danger" asp-validation-for="Apellidos"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="TipoDeDocumento"></label>
+        <input class="form-control" asp-for="TipoDeDocumento" />
+        <span class="text-danger" asp-validation-for="TipoDeDocumento"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="NumeroDeDocumento"></label>
+        <input class="form-control" asp-for="NumeroDeDocumento" />
+        <span class="text-danger" asp-validation-for="NumeroDeDocumento"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label">@Html.DisplayNameFor(model => model.FechaDeNacimiento)</label>
+        <input class="form-control" asp-for="FechaDeNacimiento"/>
+        <span class="text-danger" asp-validation-for="FechaDeNacimiento"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="PaisDeOrigen"></label>
+        <input class="form-control" asp-for="PaisDeOrigen" />
+        <span class="text-danger" asp-validation-for="PaisDeOrigen"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Telefono"></label>
+        <input class="form-control" asp-for="Telefono" />
+        <span class="text-danger" asp-validation-for="Telefono"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Correo"></label>
+        <input class="form-control" asp-for="Correo" />
+        <span class="text-danger" asp-validation-for="Correo"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="DireccionActual"></label>
+        <input class="form-control" asp-for="DireccionActual" />
+        <span class="text-danger" asp-validation-for="DireccionActual"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Ciudad"></label>
+        <input class="form-control" asp-for="Ciudad" />
+        <span class="text-danger" asp-validation-for="Ciudad"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="SituacionLaboral"></label>
+        <input class="form-control" asp-for="SituacionLaboral" />
+        <span class="text-danger" asp-validation-for="SituacionLaboral"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Username"></label>
+        <input class="form-control" asp-for="Username" />
+        <span class="text-danger" asp-validation-for="Username"></span>
+    </div>
+    <div class="form-group">
+        <label class="form-label" asp-for="Password"></label>
+        <input class="form-control" asp-for="Password" />
+        <span class="text-danger" asp-validation-for="Password"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Registrar</button>
+</form>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

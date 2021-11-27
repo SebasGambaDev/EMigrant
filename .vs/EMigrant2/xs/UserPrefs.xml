@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{63014000-17BE-4615-81DF-3D2B6158E58F}|Default">
+  <MonoDevelop.Ide.ItemProperties.EMigrant2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EMigrant2/Controllers/UserController.cs">
+    <Files>
+      <File FileName="EMigrant2.Persistencia/Data/EMigrant2Context.cs" Line="20" Column="1" />
+      <File FileName="EMigrant2.Modelos/UserMigrant.cs" Line="43" Column="47" />
+      <File FileName="EMigrant2/Startup.cs" Line="30" Column="48" />
+      <File FileName="EMigrant2/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="EMigrant2/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="EMigrant2/Views/_ViewImports.cshtml" Line="2" Column="36" />
+      <File FileName="EMigrant2.Modelos/ViewModels/ErrorViewModel.cs" Line="3" Column="39" />
+      <File FileName="EMigrant2/appsettings.json" Line="10" Column="51" />
+      <File FileName="EMigrant2/Controllers/HomeController.cs" Line="35" Column="29" />
+      <File FileName="EMigrant2.Persistencia/Repositorios/IRepositorios/IUsuarioMigranteRepositorio.cs" Line="14" Column="1" />
+      <File FileName="EMigrant2.Persistencia/Repositorios/UsuarioMigranteRepositorio.cs" Line="28" Column="9" />
+      <File FileName="EMigrant2/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="EMigrant2/Views/Shared/_Layout.cshtml" Line="29" Column="30" />
+      <File FileName="EMigrant2/Views/User/Create.cshtml" Line="74" Column="31" />
+      <File FileName="EMigrant2/Controllers/UserController.cs" Line="25" Column="19" />
+      <File FileName="EMigrant2/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EMigrant2" expanded="True">
+            <Node name="EMigrant2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+            <Node name="EMigrant2.Modelos" expanded="True" />
+            <Node name="EMigrant2.Persistencia" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Repositorios" expanded="True">
+                <Node name="IRepositorios" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
